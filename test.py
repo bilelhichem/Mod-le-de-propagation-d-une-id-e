@@ -12,6 +12,7 @@ class EnhancedPDSimulator:
         self.master.title("Enhanced Spatial PD Simulator")
         
         # Simulation parameters
+        #le code final 
         self.n = 100
         self.b = 1.8
         self.running = False
